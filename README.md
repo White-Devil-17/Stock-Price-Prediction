@@ -56,4 +56,4 @@ License:
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact ->If you have any questions about the Student Management System, please feel free to contact me at [bhattaraianup17@gmail.com] I hope this is helpful!
+Contact ->If you have any questions about the Stock price prediction, please feel free to contact me at [bhattaraianup17@gmail.com] I hope this is helpful!
