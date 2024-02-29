@@ -39,13 +39,19 @@ Compare actual and predicted prices to evaluate the model's accuracy and perform
 Dependencies:
 
 Python 3.x
+
 TensorFlow
+
 Matplotlib
+
 Pandas
+
 NumPy
 
 Contributing:
+
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 License:
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
