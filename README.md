@@ -12,12 +12,18 @@ Recommendation System: Incorporates recommendations from both LSTM models and te
 Performance Evaluation: Compares actual and predicted prices to assess the model's accuracy, crucial for evaluating model performance and guiding investment decisions.
 Usage:
 
-Data Collection: Obtain historical stock price data for the desired stock using tiingo api.
-Model Training: Train LSTM models on historical data to predict future stock prices.
-Technical Analysis: Calculate technical indicators such as EMA and RSI based on historical data.
-Visualization: Visualize historical and predicted stock prices using Matplotlib.
-Recommendation: Provide recommendations on whether to 'Buy', 'Sell', or 'Hold' stocks based on LSTM forecasts and technical analysis.
-Evaluation: Compare actual and predicted prices to evaluate the model's accuracy and performance.
+Data Collection:
+Obtain historical stock price data for the desired stock using tiingo api.
+Model Training: 
+Train LSTM models on historical data to predict future stock prices.
+Technical Analysis: 
+Calculate technical indicators such as EMA and RSI based on historical data.
+Visualization:
+Visualize historical and predicted stock prices using Matplotlib.
+Recommendation: 
+Provide recommendations on whether to 'Buy', 'Sell', or 'Hold' stocks based on LSTM forecasts and technical analysis.
+Evaluation: 
+Compare actual and predicted prices to evaluate the model's accuracy and performance.
 
 Dependencies:
 Python 3.x
