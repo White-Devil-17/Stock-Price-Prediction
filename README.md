@@ -18,13 +18,14 @@ Technical Analysis: Calculate technical indicators such as EMA and RSI based on 
 Visualization: Visualize historical and predicted stock prices using Matplotlib.
 Recommendation: Provide recommendations on whether to 'Buy', 'Sell', or 'Hold' stocks based on LSTM forecasts and technical analysis.
 Evaluation: Compare actual and predicted prices to evaluate the model's accuracy and performance.
-Dependencies:
 
+Dependencies:
 Python 3.x
 TensorFlow
 Matplotlib
 Pandas
 NumPy
+
 Contributing:
 Contributions to this project are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
